@@ -1,3 +1,19 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.para {
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+.topic {
+    font-family: 'Big Shoulders Display', cursive;
+}
+
+body {
+    background-color: #F2F2F2;
+    flex: flex;
+    justify-content: center;
+    align-items: center;
+
+}

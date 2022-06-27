@@ -1,5 +1,11 @@
+import Card from "./card";
+
 function App() {
-  return <div className="App">a</div>;
+  return (
+    <div className="flex h-auto para py-24">
+      <Card />
+    </div>
+  );
 }
 
 export default App;
