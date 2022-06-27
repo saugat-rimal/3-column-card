@@ -12,7 +12,7 @@ export default function Card() {
             <div>
               <img src={sedan} alt="" className="" />
             </div>
-            <h2 className="topic text-4xl">Sedans</h2>
+            <h2 className="topic uppercase text-4xl">Sedans</h2>
             <p>
               Choose a sedan for its affordability and excellent fuel economy.
               Ideal for cruising in the city or on your next road trip.
@@ -27,7 +27,7 @@ export default function Card() {
             <div>
               <img src={suv} alt="" className="" />
             </div>
-            <h2 className="topic text-4xl">SUVs</h2>
+            <h2 className="topic uppercase text-4xl">SUVs</h2>
             <p>
               Take an SUV for its spacious interior, power, and versatility.
               Perfect for your next family vacation and off-road adventures.
@@ -42,7 +42,7 @@ export default function Card() {
             <div>
               <img src={luxury} alt="" className="" />
             </div>
-            <h2 className="topic text-4xl">Luxury</h2>
+            <h2 className="topic uppercase text-4xl">Luxury</h2>
             <p>
               Cruise in the best car brands without the bloated prices. Enjoy
               the enhanced comfort of a luxury rental and arrive in style.
